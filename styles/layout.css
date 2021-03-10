@@ -1,0 +1,1017 @@
+@charset "utf-8";
+
+/*
+Template Name: Shicso
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Copyright: OS-Templates.com
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+File: Layout CSS
+*/
+
+@import url("fontawesome/css/fontawesome-all.min.css");
+@import url("framework.css");
+@font-face {
+    font-family: '인피니티산스';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/InfinitySans-RegularA1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '인피니티산스 Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/InfinitySans-BoldA1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ImcreSoojin';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.3/ImcreSoojin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Rows
+--------------------------------------------------------------------------------------------------------------- */
+
+.row1 {
+    border-top: 0.1975rem solid;
+}
+
+.row4 {
+    border-bottom: 0.1625rem solid;
+}
+
+
+/* Header
+--------------------------------------------------------------------------------------------------------------- */
+
+#header {
+    padding: 50px 0;
+}
+
+#header #logo * {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+
+#header #logo h1 {
+    margin-top: -10px;
+}
+
+#header #logo p {
+    font-size: .8rem;
+    text-transform: capitalize;
+}
+
+#header ul li div {
+    position: relative;
+    min-height: 45px;
+    padding: 0 0 0 60px;
+    line-height: 1;
+}
+
+#header ul li div i {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 45px;
+    height: 45px;
+    line-height: 43px;
+    font-size: 16px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+#header ul li div span {
+    display: block;
+    padding: 4px 0 0 0;
+}
+
+#header ul li div strong {
+    display: block;
+    margin: 0 0 8px 0;
+}
+
+#header div:last-child {
+    margin-bottom: 0;
+}
+
+
+/* Used when elements stack in small viewports */
+
+
+/* Page Intro
+--------------------------------------------------------------------------------------------------------------- */
+
+#pageintro {
+    padding: 220px 0;
+}
+
+#pageintro .heading {
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+#pageintro footer {
+    margin-top: 50px;
+}
+
+
+/* Footer
+--------------------------------------------------------------------------------------------------------------- */
+
+#footer {
+    padding: 80px 0;
+}
+
+#footer .heading {
+    margin-bottom: 50px;
+}
+
+#footer .logoname {
+    margin: -12px 0 35px;
+}
+
+#footer .logoname * {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+
+#footer .linklist li {
+    display: block;
+    margin-bottom: 15px;
+    padding: 0 0 15px 0;
+    border-bottom: 1px solid;
+}
+
+#footer .linklist li:last-child {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+#footer .linklist li::before,
+#footer .linklist li::after {
+    display: table;
+    content: "";
+}
+
+#footer .linklist li,
+#footer .linklist li::after {
+    clear: both;
+}
+
+#footer .contact.linklist li {
+    margin-bottom: 10px;
+}
+
+#footer .contact.linklist li,
+#footer .contact.linklist li:last-child {
+    position: relative;
+    padding-left: 40px;
+}
+
+#footer .contact li * {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+#footer .contact li i {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30px;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+/* Copyright
+--------------------------------------------------------------------------------------------------------------- */
+
+#copyright {
+    padding: 20px 0;
+}
+
+#copyright * {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Transition Fade
+This gives a smooth transition to "ALL" elements used in the layout - other than the navigation form used in mobile devices
+If you don't want it to fade all elements, you have to list the ones you want to be faded individually
+Delete it completely to stop fading
+--------------------------------------------------------------------------------------------------------------- */
+
+*,
+*::before,
+*::after {
+    transition: all .3s ease-in-out;
+}
+
+#mainnav form * {
+    transition: none !important;
+}
+
+
+/* Navigation
+--------------------------------------------------------------------------------------------------------------- */
+
+nav ul,
+nav ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#mainnav,
+#breadcrumb,
+.sidebar nav {
+    line-height: normal;
+}
+
+#mainnav .drop::after,
+#mainnav li li .drop::after,
+#breadcrumb li a::after,
+.sidebar nav a::after {
+    position: absolute;
+    font-family: "Font Awesome\ 5 Free";
+    font-weight: 900;
+    font-size: 10px;
+    line-height: 10px;
+}
+
+
+/* Top Navigation */
+
+#mainnav {
+    position: relative;
+    margin-top: -1px;
+    z-index: 999;
+}
+
+#mainnav ul {
+    text-transform: uppercase;
+}
+
+#mainnav ul ul {
+    position: absolute;
+    width: 180px;
+    text-transform: none;
+}
+
+#mainnav ul ul ul {
+    left: 180px;
+    top: 0;
+}
+
+#mainnav li {
+    display: inline-block;
+    position: relative;
+    margin: 0 20px 0 0;
+    padding: 0;
+}
+
+#mainnav li:last-child {
+    margin-right: 0;
+}
+
+#mainnav li li {
+    width: 100%;
+    margin: 0;
+}
+
+#mainnav li a {
+    display: block;
+    padding: 30px 0;
+    border: solid;
+    border-width: 1px 0 0 0;
+}
+
+#mainnav li li a {
+    border-width: 0 0 1px 0;
+}
+
+#mainnav .drop {
+    padding-left: 15px;
+}
+
+#mainnav li li a,
+#mainnav li li .drop {
+    display: block;
+    margin: 0;
+    padding: 10px 15px;
+}
+
+#mainnav .drop::after,
+#mainnav li li .drop::after {
+    content: "\f0d7";
+}
+
+#mainnav .drop::after {
+    top: 35px;
+    left: 5px;
+}
+
+#mainnav li li .drop::after {
+    top: 15px;
+    left: 5px;
+}
+
+#mainnav ul ul {
+    visibility: hidden;
+    opacity: 0;
+}
+
+#mainnav ul li:hover>ul {
+    visibility: visible;
+    opacity: 1;
+}
+
+#mainnav form {
+    display: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#mainnav form select,
+#mainnav form select option {
+    display: block;
+    cursor: pointer;
+    outline: none;
+}
+
+#mainnav form select {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid;
+}
+
+#mainnav form select option {
+    margin: 5px;
+    padding: 0;
+    border: none;
+}
+
+
+/* Colours
+--------------------------------------------------------------------------------------------------------------- */
+
+body {
+    color: #A8A8A8;
+    background-color: #151618;
+}
+
+a {
+    color: #82B7DF;
+}
+
+a:active,
+a:focus {
+    background: transparent;
+}
+
+
+/* IE10 + 11 Bugfix - prevents grey background */
+
+hr,
+.borderedbox {
+    border-color: #D7D7D7;
+}
+
+label span {
+    color: #FF0000;
+    background-color: inherit;
+}
+
+input:focus,
+textarea:focus,
+*:required:focus {
+    border-color: #82B7DF;
+}
+
+.overlay {
+    color: #FFFFFF;
+    background-color: inherit;
+}
+
+.overlay::after {
+    color: inherit;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+.overlay.dark::after {
+    color: inherit;
+    background-color: rgba(37, 100, 146, .85)/* #256492 */
+    ;
+}
+
+.overlay.light::after {
+    background-color: rgba(130, 183, 223, .65)/* #82B7DF */
+    ;
+}
+
+.btn,
+.btn.inverse:hover {
+    font-family: "인피니티산스 Bold";
+    color: #FFFFFF;
+    background-color: #70B7F3;
+    border-color: #70B7F3;
+    cursor: pointer;
+}
+
+.btn:hover,
+.btn.inverse {
+    color: inherit;
+    background-color: transparent;
+    border-color: inherit;
+    cursor: pointer;
+}
+
+.logoname {
+    color: inherit;
+}
+
+.logoname i {
+    color: #256492;
+}
+
+
+/* Rows */
+
+.row0 {
+    color: #474747;
+    background-color: #FFFFFF;
+}
+
+.row1 {
+    color: #474747;
+    background-color: #FFFFFF;
+    border-color: rgb(75, 157, 233);
+    padding-top: 0.325rem;
+    transition: all 0.25s;
+}
+
+@media (max-width: 978px) {
+    .row1 {
+        display: none;
+        transition: all 0.25s;
+    }
+}
+
+.row4 {
+    color: #A8A8A8;
+    background-color: #1C1D1F;
+    border-color: rgb(75, 157, 233);
+}
+
+.row5,
+.row5 a {
+    color: #A8A8A8;
+    background-color: #151618;
+}
+
+.row6 {
+    color: #FFFFFF;
+    background-color: #373737;
+}
+
+
+/* Header */
+
+#header #logo .logoname a {
+    color: inherit;
+}
+
+#header ul li div i {
+    border-color: rgba(0, 0, 0, .1);
+}
+
+
+/* Page Intro */
+
+#pageintro {
+    color: #FFFFFF;
+}
+
+/* Footer */
+
+#footer .heading,
+#footer .logoname a {
+    color: #FFFFFF;
+}
+
+#footer hr,
+#footer .borderedbox,
+#footer .linklist li {
+    border-color: rgba(255, 255, 255, .1);
+}
+
+
+/* Navigation */
+
+#mainnav li a {
+    color: inherit;
+    border-color: transparent;
+}
+
+#mainnav .active a,
+#mainnav a:hover,
+#mainnav li:hover>a {
+    color: #82B7DF;
+    background-color: #FFFFFF;
+    border-color: #82B7DF;
+}
+
+#mainnav li li a,
+#mainnav .active li a {
+    color: #474747;
+    background-color: rgba(255, 255, 255, .8);
+    border-color: #FFFFFF;
+}
+
+#mainnav li li:hover>a,
+#mainnav .active .active>a {
+    color: #82B7DF;
+    background-color: #FFFFFF;
+    border-color: #82B7DF;
+}
+
+#mainnav form select {
+    color: #474747;
+    background-color: #FFFFFF;
+    border-color: #82B7DF;
+}
+
+
+/* Media Queries
+--------------------------------------------------------------------------------------------------------------- */
+
+@-ms-viewport {
+    width: device-width;
+}
+
+
+/* Max Wrapper Width - Laptop, Desktop etc.
+--------------------------------------------------------------------------------------------------------------- */
+
+@media screen and (min-width:1140px) {
+    .hoc {
+        max-width: 1140px;
+    }
+}
+
+@media screen and (min-width:978px) and (max-width:1140px) {
+    .hoc {
+        max-width: 95%;
+    }
+}
+
+
+/* Mobile Devices
+--------------------------------------------------------------------------------------------------------------- */
+
+@media screen and (max-width:978px) {
+    .hoc {
+        max-width: 90%;
+    }
+    #mainnav {
+        position: inherit;
+        margin-top: 0;
+        padding: 30px 0;
+    }
+    #mainnav ul {
+        display: none;
+    }
+    #mainnav form {
+        display: block;
+    }
+    #copyright p:first-of-type {
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width:790px) {
+    .fl_left,
+    .fl_right {
+        display: block;
+        float: none;
+    }
+    .one_third,
+    .one_quarter,
+    .three_quarter {
+        display: block;
+        float: none;
+        width: auto;
+        margin: 0 0 30px 0;
+        padding: 0;
+    }
+    #pageintro {
+        padding: 150px 0;
+    }
+    #pageintro .heading {
+        font-size: 2rem;
+    }
+    #footer {
+        padding-bottom: 50px;
+    }
+}
+/* --------------------- End of Template Code --------------------- */
+
+.nav-link {
+    cursor: pointer;
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: #82B7DF;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.silder-ul,
+.silder-li {
+    list-style: none;
+}
+
+.slide {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.slide ul {
+    width: calc(100% * 4);
+    display: flex;
+    transition: 0.925s;
+}
+
+.slide li {
+    width: calc(100% / 4);
+    height: 50.725rem;
+}
+
+.slide li:nth-child(1) {
+    background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.35)), url('../images/main-background-01.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.slide li:nth-child(2) {
+    background: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25)), url('../images/main-background-02.png') center center no-repeat;
+    background-size: cover;
+    transition: all 0.25s;
+}
+@media (max-width: 625px) {
+    .slide li:nth-child(2) {
+        background: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25)), url('../images/main-background-02-min.png') center center no-repeat;
+        background-size: cover;
+        transition: all 0.25s;
+    }
+}
+
+@media (max-width: 450px) {
+    .slide li:nth-child(2) {
+        background: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25)), url('../images/white-background.jpg') center center no-repeat;
+        background-size: cover;
+        transition: all 0.25s;
+    }
+}
+
+.slide li:nth-child(3) {
+    background: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25)), url('../images/main-background-03.png') center center no-repeat;
+    background-size: cover;
+    transition: all 0.25s;
+}
+@media (max-width: 870px) {
+    .slide li:nth-child(3) {
+        background: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25)), url('../images/main-background-03-min.png') center center no-repeat;
+        background-size: cover;
+        transition: all 0.25s;
+    }
+}
+
+@media (max-width: 370px) {
+    .slide li:nth-child(3) {
+        background: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25)), url('../images/white-background.jpg') center center no-repeat;
+        background-size: cover;
+        transition: all 0.25s;
+    }
+}
+
+.slide li:nth-child(4) {
+    background: #aaf;
+}
+
+.slide input {
+    display: none;
+}
+
+.slide .bullet {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 10;
+}
+
+.slide .bullet label {
+    width: 1.375rem;
+    height: 1.375rem;
+    border-radius: 32px;
+    border: 2.175px solid #575757;
+    display: inline-block;
+    background: #fff;
+    font-size: 0;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+/* 슬라이드 조작 */
+
+#pos1:checked~ul {
+    margin-left: 0;
+}
+
+#pos2:checked~ul {
+    margin-left: -100%;
+}
+
+#pos3:checked~ul {
+    margin-left: -200%;
+}
+
+#pos4:checked~ul {
+    margin-left: -300%;
+}
+
+
+/* bullet 조작 */
+
+#pos1:checked~.bullet label:nth-child(1) {
+    background: rgb(247, 118, 118);
+}
+
+#pos2:checked~.bullet label:nth-child(2) {
+    background: #82b7df;
+}
+
+#pos3:checked~.bullet label:nth-child(3) {
+    background: rgb(166, 252, 166);
+}
+
+#pos4:checked~.bullet label:nth-child(4) {
+    background: rgb(156, 156, 238);
+}
+
+.dialog {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.45);
+    transition: all 0.175s;
+}
+
+.dialog-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    border: 1.5px solid #515352;
+    border-radius: 0.5rem;
+    width: 65%;
+    max-height: 100vh;
+    transition: all 0.175s;
+}
+
+.dialog-header {
+    padding: 1rem 1rem;
+    border-bottom: 1.75px solid #717372;
+    transition: all 0.175s;
+}
+
+.dialog-title {
+    width: 80%;
+    font-family: "아임크리수진";
+    font-size: 1.525rem;
+    margin-bottom: 0;
+    line-height: 1.51;
+    color: #212322;
+    transition: all 0.175s;
+}
+
+.dialog-text {
+    width: 85%;
+    font-family: "인피니티산스 Bold";
+    font-size: 1.25rem;
+    text-align: center;
+    line-height: 1.51;
+    color: #515352;
+    padding-top: 0.725rem;
+    padding-bottom: 0.725rem;
+    margin: 0 auto;
+    transition: all 0.175s;
+}
+
+.dialog-image-wrap {
+    padding: 1rem 1rem;
+    border-top: 1.75px solid #717372;
+}
+
+.dialog-image-zoom-in {
+    cursor: zoom-in;
+}
+
+.dialog-image-viewer {
+    display: none;
+    position: fixed;
+    z-index: 3000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.35);
+    transition: all 0.215s;
+}
+
+.dialog-image-viewer-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #878787;
+    margin: 0 auto;
+    border-radius: 0.5rem;
+    width: 82.5%;
+    max-height: 100vh;
+    transition: all 0.215s;
+    overflow: hidden;
+}
+
+.dialog-image-viewer-image-wrap {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    border-top: 2.975rem solid #FFFFFF;
+}
+
+.dialog-image-viewer-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.dialog-close {
+    color: #aaaaaa;
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    font-size: 2.125rem;
+    font-weight: bold;
+}
+
+.dialog-close:hover,
+.dialog-close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.send-email-template {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.send-email-input {
+    width: 75%;
+    height: 2.25rem;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0.325rem;
+    border-radius: 6px;
+}
+
+.send-email-textarea {
+    display: flex;
+    width: 75%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 1.25rem;
+}
+
+.send-email-btn {
+    width: 45%;
+    height: 3.25rem;
+    margin: 1.25rem 0;
+    font-size: 1.25rem;
+}
+
+.header-logo {
+    width: 10.725rem;
+    height: 3.675rem;
+    cursor: pointer;
+}
+
+.header-title-wrap {
+    width: 62.5%;
+    height: auto;
+}
+
+@media (max-width: 478px) {
+    .header-title-wrap {
+        width: 75%;
+        height: auto;
+    }
+}
+
+.header-title {
+    font-family: "인피니티산스 Bold";
+    font-size: 3.975rem;
+    color: white;
+}
+
+.header-title-02 {
+    font-family: "인피니티산스 Bold";
+    font-size: 3.675rem;
+    color: #575757;
+}
+
+.header-title-03 {
+    font-family: "인피니티산스 Bold";
+    font-size: 4.2975rem;
+    color: #373737;
+}
+
+.about-title {
+    font-family: "인피니티산스 Bold";
+    font-size: 3.125rem;
+}
+
+.about-text {
+    font-family: "인피니티산스";
+    font-size: 1.1925rem;
+    color: #F6F6F6;
+}
+
+.licence-wrap {
+    width: 25.125rem;
+    height: auto;
+}
+
+.licence-title {
+    font-family: "인피니티산스 Bold";
+    font-size: 1.725rem;
+    color: white;
+}
+
+.licence-text {
+    font-family: "인피니티산스";
+    font-size: 1.125rem;
+    color: #F6F6F6;
+}
+
+.licence-text-02 {
+    font-family: "인피니티산스";
+    font-size: 1.125rem;
+    color: #F6F6F6;
+    margin-top: 0.325rem;
+    margin-bottom: 0.825rem;
+}
+
+.licence-link {
+    font-family: "인피니티산스";
+    font-size: 1.125rem;
+    text-decoration: underline;
+    margin-bottom: 0.425rem;
+}
+
+.licence-link:hover {
+    color: #5d9ecf;
+}
