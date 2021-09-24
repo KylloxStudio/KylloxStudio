@@ -4,11 +4,11 @@
 ㅤ<a href="https://kyllox.xyz" target="_blank"><img src="https://kyllox.xyz/images/favicon.png" alt="discord" width="25" height="25"/></a>
 
 #### I'm Front-End Developer.
-- 🔭 I’m currently working on **[Durango_V2](https://github.com/KylloxStudio/Durango_V2)**
+- **🔭 I’m currently working on [Durango_V2](https://github.com/KylloxStudio/Durango_V2)**
 
-- 🌱 I’m currently learning **Python, React.js**
+- **🌱 I’m currently learning [Python](https://www.python.org), [React.js](https://reactjs.org)**
 
-- 💬 Ask me about anything **[here](mailto:kyllox4804@gmail.com)**
+- **💬 Ask me about anything [here](mailto:kyllox4804@gmail.com)**
 
 
 ### Languages and Tools:
