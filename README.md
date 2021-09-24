@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://github.com/KylloxStudio" target="_blank">Kyllox! 👋</a>
-<a href="https://github.com/KylloxStudio" target="_blank"><img src="https://simpleicons.org/icons/github.svg" alt="js" width="25" height="25"/></a>
-ㅤ<a href="https://www.youtube.com/c/KylloxStudio" target="_blank"><img src="https://simpleicons.org/icons/youtube.svg" alt="cpp" width="25" height="25"/></a>
-ㅤ<a href="https://kyllox.xyz" target="_blank"><img src="https://kyllox.xyz/images/favicon.png" alt="discord" width="25" height="25"/></a>
+<a href="https://github.com/KylloxStudio" target="_blank"><img src="https://simpleicons.org/icons/github.svg" alt="github" width="25" height="25"/></a>
+ㅤ<a href="https://www.youtube.com/c/KylloxStudio" target="_blank"><img src="https://simpleicons.org/icons/youtube.svg" alt="youtube" width="25" height="25"/></a>
+ㅤ<a href="https://kyllox.xyz" target="_blank"><img src="https://kyllox.xyz/images/favicon.png" alt="website" width="25" height="25"/></a>
 
 #### I'm Front-End Developer.
 - **🔭 I’m currently working on [Durango_V2](https://github.com/KylloxStudio/Durango_V2)**
