@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://github.com/KylloxStudio" target="_blank">Kyllox! 👋</a>
+### Hi there, I'm [Kyllox! 👋](https://github.com/KylloxStudio)
 <a href="https://github.com/KylloxStudio" target="_blank"><img src="https://simpleicons.org/icons/github.svg" alt="github" width="25" height="25"/></a>
 ㅤ<a href="https://www.youtube.com/c/KylloxStudio" target="_blank"><img src="https://simpleicons.org/icons/youtube.svg" alt="youtube" width="25" height="25"/></a>
 ㅤ<a href="https://kyllox.xyz" target="_blank"><img src="https://kyllox.xyz/images/favicon.png" alt="website" width="25" height="25"/></a>
