@@ -12,11 +12,14 @@
 
 
 ### Languages and Tools:
-ㅤ<a href="https://dotnet.microsoft.com" target="_blank"><img src="https://simpleicons.org/icons/dotnet.svg" alt="dotnet" width="30" height="30"/></a>
-ㅤ<img src="https://simpleicons.org/icons/javascript.svg" alt="js" width="30" height="30"/>
-ㅤ<a href="https://visualstudio.com" target="_blank"><img src="https://simpleicons.org/icons/visualstudio.svg" alt="vs" width="30" height="30"/></a>
-ㅤ<a href="https://code.visualstudio.com" target="_blank"><img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="vsc" width="30" height="30"/></a>
-ㅤ<a href="https://unity.com" target="_blank"><img src="https://simpleicons.org/icons/unity.svg" alt="unity" width="30" height="30"/></a>
+<a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=DotNet&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+####
+<a href="https://visualstudio.com"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=black"/></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black"/></a>
+<a href="https://github.com/dnSpy/dnSpy"><img src="http://kyllox4804.dothome.co.kr/icons/dnspy.svg"/></a>
+<a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-FAFAFA?style=flat-square&logo=Unity&logoColor=black"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></a>
 
 
 ## GitHub Stats
