@@ -25,4 +25,4 @@
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KylloxStudio&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ####
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KylloxStudio&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KylloxStudio&layout=demo&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
