@@ -6,7 +6,7 @@
 #### I'm Front-End / Game Developer.
 - **🔭 I’m currently working on [Durango_V2](https://github.com/KylloxStudio/Durango_V2)**
 
-- **🌱 I’m currently learning [Python](https://www.python.org), [React.js](https://reactjs.org)**
+- **🌱 I’m currently learning [PHP](https://www.php.net), [React.js](https://reactjs.org)**
 
 - **💬 Ask me about anything [here](mailto:kyllox4804@gmail.com)**
 
