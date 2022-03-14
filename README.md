@@ -17,7 +17,7 @@
 ####
 <a href="https://visualstudio.com"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=black"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black"/></a>
-<a href="https://github.com/dnSpy/dnSpy"><img src="http://kyllox4804.dothome.co.kr/icons/dnspy_1.svg"/></a>
+<a href="https://github.com/dnSpy/dnSpy"><img src="http://kyllox4804.dothome.co.kr/icons/dnspy/dnspy_1.svg"/></a>
 <a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-FAFAFA?style=flat-square&logo=Unity&logoColor=black"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></a>
 
