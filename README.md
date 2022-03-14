@@ -13,7 +13,10 @@
 
 ### Languages and Tools:
 <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=DotNet&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
+<a href="https://www.cplusplus.com"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=black"/></a>
+<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=black"/></a>
+<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 ####
 <a href="https://visualstudio.com"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=black"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black"/></a>
