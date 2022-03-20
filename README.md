@@ -14,8 +14,8 @@
 ### Languages and Tools:
 <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=DotNet&logoColor=black"/></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
-<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black"/></a>
-<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>
 <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=black"/></a>
 ####
