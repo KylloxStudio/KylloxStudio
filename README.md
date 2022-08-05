@@ -25,7 +25,7 @@
 
 
 ## Contact
-- ```Email:kyllox4804@gmai.com```
+- ```Email:kyllox4804@gmail.com```
 - ```Discord:Kyllox#3509```
 - https://kyllox.studio/contact
 
