@@ -1,7 +1,7 @@
 ### Hi there, I'm [Kyllox! 👋](https://github.com/KylloxStudio)
 <a href="https://github.com/KylloxStudio"><img src="https://simpleicons.org/icons/github.svg" alt="github" width="25" height="25"/></a>
 ㅤ<a href="https://www.youtube.com/c/KylloxStudio"><img src="https://simpleicons.org/icons/youtube.svg" alt="youtube" width="25" height="25"/></a>
-ㅤ<a href="https://kyllox.tech"><img src="https://kyllox.studio/images/favicon.png" alt="website" width="25" height="25"/></a>
+ㅤ<a href="https://kyllox.tech"><img src="https://kyllox.tech/images/favicon.png" alt="website" width="25" height="25"/></a>
 
 #### I'm Front-End / Game Developer.
 - **🔭 I’m currently working on [Durango_V2](https://github.com/KylloxStudio/Durango_V2)**
