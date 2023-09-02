@@ -7,13 +7,13 @@
 
 #### I'm Front-End / Game Developer.
 - **🔭 I’m currently working on [Durango_V2](https://github.com/KylloxStudio/Durango_V2)**
-- **🌱 I’m currently learning [React.js](https://reactjs.org)**
+- **🌱 I’m currently learning [socket.io](https://socket.io)**
 - **💬 Ask me about anything [here](mailto:kyllox4804@gmail.com)**
 
 
 ## Skills
 <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=black"/></a>
-<a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=black"/></a>
+<a href="https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=black"/></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
 <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=black"/></a>
