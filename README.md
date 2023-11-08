@@ -1,7 +1,7 @@
 ### Hi there, I'm [Kyllox! 👋](https://github.com/KylloxStudio)
 <a href="https://github.com/KylloxStudio"><img src="https://simpleicons.org/icons/github.svg" alt="github" width="25" height="25"/></a>
 ㅤ<a href="https://www.youtube.com/c/KylloxStudio"><img src="https://simpleicons.org/icons/youtube.svg" alt="youtube" width="25" height="25"/></a>
-ㅤ<a href="https://kyllox.tech"><img src="https://kyllox.tech/images/favicon.png" alt="website" width="25" height="25"/></a><br/>
+ㅤ<a href="https://kyllox.tech"><img src="https://kyllox.pe.kr/images/favicon.png" alt="website" width="25" height="25"/></a><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkyllox.tech&count_bg=%233793D5&title_bg=%23171717&icon=powershell.svg&icon_color=%23F1F1F1&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
