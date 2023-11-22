@@ -1,8 +1,8 @@
 ### Hi there, I'm [Kyllox! 👋](https://github.com/KylloxStudio)
 <a href="https://github.com/KylloxStudio"><img src="https://simpleicons.org/icons/github.svg" alt="github" width="25" height="25"/></a>
 ㅤ<a href="https://www.youtube.com/c/KylloxStudio"><img src="https://simpleicons.org/icons/youtube.svg" alt="youtube" width="25" height="25"/></a>
-ㅤ<a href="https://kyllox.pe.kr"><img src="https://kyllox.pe.kr/images/favicon.png" alt="website" width="25" height="25"/></a><br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkyllox.tech&count_bg=%233793D5&title_bg=%23171717&icon=powershell.svg&icon_color=%23F1F1F1&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+ㅤ<a href="https://kyllox.pe.kr"><img src="https://kyllox.pe.kr/images/favicon.png" alt="website" width="25" height="25"/></a><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkyllox.pe.kr&count_bg=%233793D5&title_bg=%23171717&icon=powershell.svg&icon_color=%23F1F1F1&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 #### I'm Front-End / Game Developer.
@@ -24,13 +24,14 @@
 <a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-FAFAFA?style=flat-square&logo=Unity&logoColor=black"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></a>
 <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=mySQL&logoColor=black"/></a>
 
 
 ## Contact
 - ```Email:kyllox4804@gmail.com```
-- ```Discord:Kyllox#3509```
+- ```Discord:kylloxstudio```
 - https://kyllox.pe.kr/contact
 
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KylloxStudio&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylloxstudio&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
