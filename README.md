@@ -6,9 +6,9 @@
 
 
 #### I'm Front-End / Game Developer.
-- **🔭 I’m currently working on [Durango_V2](https://github.com/KylloxStudio/Durango_V2)**
+- **🔭 I’m currently working on [Shittim](https://github.com/KylloxStudio/Shittim)**
 - **🌱 I’m currently learning [socket.io](https://socket.io)**
-- **💬 Ask me about anything [here](mailto:kyllox4804@gmail.com)**
+- **💬 Ask me about anything [here](https://kyllox.pe.kr/contact)**
 
 
 ## Skills
