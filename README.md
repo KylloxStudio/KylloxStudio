@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkyllox.pe.kr&count_bg=%233793D5&title_bg=%23171717&icon=powershell.svg&icon_color=%23F1F1F1&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
-#### I'm Front-End / Game Developer.
+#### I'm a Game Developer.
 - **🔭 I’m currently working on [Shittim](https://github.com/KylloxStudio/Shittim)**
 - **🌱 I’m currently learning [socket.io](https://socket.io)**
 - **💬 Ask me about anything [here](https://kyllox.pe.kr/contact)**
