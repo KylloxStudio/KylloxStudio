@@ -6,7 +6,6 @@
 
 #### I'm a Game Developer.
 - **🔭 I’m currently working on [Shittim](https://github.com/KylloxStudio/Shittim)**
-- **🌱 I’m currently learning [socket.io](https://socket.io)**
 - **💬 Ask me about anything [here](https://kyllox.pe.kr/contact)**
 
 
