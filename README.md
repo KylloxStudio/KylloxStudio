@@ -1,12 +1,12 @@
 ### Hi there, I'm [Kyllox! 👋](https://github.com/KylloxStudio)
 <a href="https://github.com/KylloxStudio"><img src="https://simpleicons.org/icons/github.svg" alt="github" width="25" height="25"/></a>
 ㅤ<a href="https://www.youtube.com/c/KylloxStudio"><img src="https://simpleicons.org/icons/youtube.svg" alt="youtube" width="25" height="25"/></a>
-ㅤ<a href="https://kyllox.pe.kr"><img src="https://kyllox.pe.kr/images/favicon.png" alt="website" width="25" height="25"/></a><br>
+ㅤ<a href="https://kyllox.pe.kr"><img src="https://kyllox.pe.kr/favicon.ico" alt="website" width="25" height="25"/></a><br>
 
 
 #### I'm a Game Developer.
 - **🔭 I’m currently working on [Shittim](https://github.com/KylloxStudio/Shittim)**
-- **💬 Ask me about anything [here](https://kyllox.pe.kr/contact)**
+- **💬 Ask me about anything [here](https://info.kyllox.pe.kr/contact)**
 
 
 ## Skills
@@ -27,8 +27,10 @@
 ## Contact
 - ```Email:kyllox4804@gmail.com```
 - ```Discord:kylloxstudio```
-- https://kyllox.pe.kr/contact
+- https://info.kyllox.pe.kr/contact
 
 
+<!--
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylloxstudio&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
