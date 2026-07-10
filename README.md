@@ -6,7 +6,7 @@
 
 #### I'm a Game Developer.
 - **🔭 I’m currently working on [Shittim](https://github.com/KylloxStudio/Shittim)**
-- **💬 Ask me about anything [here](https://info.kyllox.pe.kr/contact)**
+- **💬 Ask me about anything [here](https://kyllox.pe.kr/contact)**
 
 
 ## Skills
@@ -25,9 +25,8 @@
 
 
 ## Contact
-- ```Email:kyllox4804@gmail.com```
-- ```Discord:kylloxstudio```
-- https://info.kyllox.pe.kr/contact
+- ```Email: contact@kyllox.pe.kr```
+- ```Discord: kylloxstudio```
 
 
 <!--
