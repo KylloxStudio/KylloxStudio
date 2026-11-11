@@ -1,35 +1,32 @@
-### Hi there, I'm [Kyllox! 👋](https://github.com/KylloxStudio)
-<a href="https://github.com/KylloxStudio"><img src="https://simpleicons.org/icons/github.svg" alt="github" width="25" height="25"/></a>
-ㅤ<a href="https://www.youtube.com/c/KylloxStudio"><img src="https://simpleicons.org/icons/youtube.svg" alt="youtube" width="25" height="25"/></a>
-ㅤ<a href="https://kyllox.pe.kr"><img src="https://kyllox.pe.kr/favicon.ico" alt="website" width="25" height="25"/></a><br>
+<div align="center">
 
+# Hi, there!👋
+I'm **LafleurN** — Developer who dreams and pursues the future.
 
-#### I'm a Game Developer.
-- **🔭 I’m currently working on [Shittim](https://github.com/KylloxStudio/Shittim)**
-- **💬 Ask me about anything [here](https://kyllox.pe.kr/contact)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-kyllox.pe.kr-2f81f7?style=flat-square&logo=googlechrome&logoColor=white)](https://kyllox.pe.kr)
+[![Email](https://img.shields.io/badge/Email-contact@kyllox.pe.kr-ea4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@kyllox.pe.kr)
+[![X](https://img.shields.io/badge/X-@lafleur3509-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/lafleur3509)
+
+</div>
 
 
 ## Skills
-<a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=black"/></a>
-<a href="https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=black"/></a>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
-<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=black"/></a>
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<a href="https://visualstudio.com"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=black"/></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black"/></a>
-<a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-FAFAFA?style=flat-square&logo=Unity&logoColor=black"/></a>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></a>
-<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/></a>
-<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=mySQL&logoColor=black"/></a>
+
+## Developments
+| Project | Type | Description | Page |
+|---|---|---|---|
+| **Shittim** | GAME | Blue Archive TPS multiplayer game (fan-made) | [Landing](https://kyllox.pe.kr/shittim/) |
+| **Rhythm Soul** | GAME | 2D hybrid action game combining side-scrolling stage exploration with rhythm-based combat judgment | [Landing](https://kyllox.pe.kr/rhythm_soul/) |
+| **Database** | WEB | A website that collects all my works | [Visit](https://kyllox.pe.kr/db/) |
+| **Community Board** | WEB | A website where people can freely communicate with each other | [Visit](https://kyllox.pe.kr/board/) |
 
 
 ## Contact
-- ```Email: contact@kyllox.pe.kr```
-- ```Discord: kylloxstudio```
-
-
-<!--
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylloxstudio&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+- [contact@kyllox.pe.kr](mailto:contact@kyllox.pe.kr)
+- [Contact Page](https://kyllox.pe.kr/contact)
